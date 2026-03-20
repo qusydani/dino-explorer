@@ -209,3 +209,4 @@ __marimo__/
 model_*.py
 hub/
 .history/
+*.index
